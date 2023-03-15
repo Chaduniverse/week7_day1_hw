@@ -30,4 +30,23 @@ function replaceEvens(arr){
     }
     return arr
 }  
-console.log(replaceEvens(arr))
+console.log(replaceEvens(arr))   
+
+
+
+
+/* Codewars problems Javascript Conversion 
+
+1.)Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+
+const function even_or_odd = (num) => return (num % 2 == 0)? "Even": 'Odd"
+console.log(even_or_odd(12))    
+
+
+2.)We need a function that can transform a number (integer) into a string.
+
+const function number_to_string(num){
+    console.log(num.toString())
+    console.log(num)
+}
+     */
